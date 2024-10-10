@@ -1,0 +1,19 @@
+.Navbar{
+     background-color:rgb(169, 98, 98);
+     color:rgb(245, 241, 241);  
+}
+
+li{
+    list-style:none;
+}
+.Navbar{
+    position:fixed;
+    width:100%;
+    top:0;
+}
+ul{
+    display:flex;
+    gap:25px;
+    justify-content: right;
+    padding-right:10%;
+}
